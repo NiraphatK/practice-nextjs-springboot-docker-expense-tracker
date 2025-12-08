@@ -1,0 +1,42 @@
+# Compiled Output (Maven & Gradle)
+target
+build
+out
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven wrapper (optional: keep if you run mvn inside docker)
+# .mvn
+# mvnw
+# mvnw.cmd
+
+# Gradle wrapper (optional: keep if you run gradle inside docker)
+# .gradle
+# gradlew
+# gradlew.bat
+
+# Logs
+*.log
+
+# Git and System files
+.git
+.gitignore
+.dockerignore
+Dockerfile*
+docker-compose*
+README.md
+LICENSE
+HELP.md
+
+# IDE and Editor files
+.idea
+.vscode
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings
+.DS_Storev
